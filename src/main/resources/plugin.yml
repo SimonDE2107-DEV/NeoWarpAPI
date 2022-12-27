@@ -1,0 +1,15 @@
+name: NeoWarpAPI
+version: '${project.version}'
+main: net.neounity.neowarpapi.NeoWarpAPI
+api-version: 1.19
+authors: [ SimonDE2107 ]
+description: Unser WarpSystem mit einer integrierten Developer-API
+website: neounity.net
+
+commands:
+  delwarp:
+  setwarp:
+  warp:
+  warps:
+    aliases:
+      - warplist
